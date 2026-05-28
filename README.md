@@ -56,7 +56,7 @@ Business Recommendations
 
 Future Scope
 - Add real-time sales tracking
-- 
+- Integrate predictive sales forecasting
 
 Project Deliverables
 - Cleaned Excel Dataset
