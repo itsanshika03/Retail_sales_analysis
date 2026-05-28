@@ -68,11 +68,11 @@ Dashboards
 - Overview Dashboard
 ![Overview Dashboard](Screenshots/overview_dashboard.png)
 - Sales Analysis Dashboard
-![Sales Analysis Dashboard](Screenshots/sales_analysis_dashboard.png)
+![Sales Analysis Dashboard](Screenshots/sales_analysis.png)
 - Inventory Analysis Dashboard
-![Inventory Analysis Dashboard](Screenshots/inventory_analysis_dashboard.png)
+![Inventory Analysis Dashboard](Screenshots/inventory_analysis.png)
 - Customer Analysis Dashboard
-![Customer Analysis Dashboard](Screenshots/customer_analysis_dashboard.png)
+![Customer Analysis Dashboard](Screenshots/customer_analysis.png)
 
 Author
 <br>
